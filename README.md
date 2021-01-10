@@ -5,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafayasar28" alt="mustafayasar28" /></a> </p>
 
+#
+
 - 🔭 I’m currently working on [BattleCity Project](https://github.com/mustafayasar28/BattleCity)
 
+#
+
+
 <h3 align="left">Connect with me:</h3>
+
+#
+
 <p align="left">
 <a href="https://linkedin.com/in/mustafa-yaşar-73a1251b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-yaşar-73a1251b5" height="30" width="40" /></a>
 </p>
