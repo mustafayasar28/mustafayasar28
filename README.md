@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me: mmustafayyasar@gmail.com</h3>
 
-<p align="left" LinkedIn Profile: >
+<p align="left">LinkedIn Profile: 
 <a href="https://linkedin.com/in/mustafa-yaşar-73a1251b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-yaşar-73a1251b5" height="30" width="40" /></a>
 </p>
 
