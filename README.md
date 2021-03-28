@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Yaşar</h1>
-<h3 align="center">My name is Mustafa Yaşar. I am a junior computer engineering student at Bilkent University who is eager to learn new technologies and apply these technologies into the projects that I am working on.</h3>
+<h3 align="center">My name is Mustafa Yaşar. I am a junior computer science student at Bilkent University who is eager to learn new technologies and apply these technologies into the projects that I am working on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafayasar28&label=Profile%20views&color=0e75b6&style=flat" alt="mustafayasar28" /> </p>
 
