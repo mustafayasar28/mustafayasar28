@@ -12,10 +12,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
 Programming Languages: Java, C, C++, Python, Matlab, PHP, Javascript,  SystemVerilog, MIPS Assembly Language
-Technologies: Linux Operating System, Database Management Systems with SQL, Git \& GitHub, MacOS, XCode, Windows, Ubuntu
-Web Technologies: HTML5, CSS, Typescript, Vue.js
-Object Oriented Programming: UML Diagrams, Design Patterns, Requirement Analysis, Software Design, Visual Paradigm
-
 </p>
+<p>
+Technologies: Linux Operating System, Database Management Systems with SQL, Git \& GitHub, MacOS, XCode, Windows, Ubuntu
+</p>
+<p>
+Web Technologies: HTML5, CSS, Typescript, Vue.js
+</p>
+<p>
+Object Oriented Programming: UML Diagrams, Design Patterns, Requirement Analysis, Software Design, Visual Paradigm
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafayasar28&show_icons=true&locale=en" alt="mustafayasar28" /></p>
