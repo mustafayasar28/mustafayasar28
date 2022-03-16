@@ -11,10 +11,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-Programming Languages: Java, C, C++, Python, Matlab, PHP, Javascript,  SystemVerilog, MIPS Assembly Language
+Programming Languages: C#, Java, C, C++, Python, Matlab, PHP, Javascript,  SystemVerilog, MIPS Assembly Language
 </p>
 <p>
-Technologies: Linux Operating System, Database Management Systems with SQL, Git & GitHub, MacOS, XCode, Windows, Ubuntu
+Technologies: Linux Operating System, Database Management Systems with SQL, Git & GitHub, MacOS, XCode, Windows, Ubuntu, React-Native
 </p>
 <p>
 Web Technologies: HTML5, CSS, Typescript, Vue.js
